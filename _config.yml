@@ -1,3 +1,5 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+title: [Smart Water Meter Project]
+description: [This is my Landing Page for my smart water meter project for the clients to see before they can login to their portals and check their accounts and evaluate on the status of their accounts and billing information]
